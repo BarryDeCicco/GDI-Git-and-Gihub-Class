@@ -1,3 +1,5 @@
 fred
 
 ginger
+
+test after README was set up on the remote repository
