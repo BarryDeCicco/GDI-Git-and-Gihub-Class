@@ -3,3 +3,5 @@ test 1
 First change
 
 Change after checking out initial commit
+
+Change after switching from https to ssh
